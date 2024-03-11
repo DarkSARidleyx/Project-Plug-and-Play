@@ -7,7 +7,6 @@
 			"files": [
 				"C:/Users/DarkS/source/repos/Project-Plug-and-Play/Content/Project_PrisonBreak/Menus/WBP_YOUWIN.uasset",
 				"C:/Users/DarkS/source/repos/Project-Plug-and-Play/Content/Project_PrisonBreak/Maps/Map_Assets/TileMaps/TM_Sewers.uasset",
-				"C:/Users/DarkS/source/repos/Project-Plug-and-Play/Content/Project_PrisonBreak/Enemy_Characters/cyberRat_Sprites/FP_sRat_atk.uasset",
 				"C:/Users/DarkS/source/repos/Project-Plug-and-Play/Content/Project_PrisonBreak/Enemy_Characters/cyberRat_Sprites/FP_CRat_Atk1.uasset",
 				"C:/Users/DarkS/source/repos/Project-Plug-and-Play/Content/Project_PrisonBreak/Enemy_Characters/cyberRat_Sprites/FP_CRat_Atk2.uasset",
 				"C:/Users/DarkS/source/repos/Project-Plug-and-Play/Content/Project_PrisonBreak/Enemy_Characters/cyberRat_Sprites/FP_CRat_Atk3.uasset",
@@ -135,6 +134,8 @@
 				"C:/Users/DarkS/source/repos/Project-Plug-and-Play/Content/Project_PrisonBreak/Enemy_Characters/TinyRat_Sprites/Walk_Sprite_4.uasset",
 				"C:/Users/DarkS/source/repos/Project-Plug-and-Play/Content/Project_PrisonBreak/Enemy_Characters/TinyRat_Sprites/Walk_Sprite_5.uasset",
 				"C:/Users/DarkS/source/repos/Project-Plug-and-Play/Content/Project_PrisonBreak/Enemy_Characters/TinyRat_Sprites/FP_TinyRat_Walk.uasset",
+				"C:/Users/DarkS/source/repos/Project-Plug-and-Play/Content/Project_PrisonBreak/Enemy_Characters/BP_EnemyCrab.uasset",
+				"C:/Users/DarkS/source/repos/Project-Plug-and-Play/Content/Project_PrisonBreak/Enemy_Characters/cyberRat_Sprites/FP_sRat_atk.uasset",
 				"E:/Game Projects/Unreal Engine/GitHub/Project-Plug-and-Play/Content/Project_PrisonBreak/Menus/WBP_PauseMenu.uasset",
 				"E:/Game Projects/Unreal Engine/GitHub/Project-Plug-and-Play/Content/Maps/MAP_MAIN.umap",
 				"E:/Game Projects/Unreal Engine/GitHub/Project-Plug-and-Play/Content/Assets/Fp_charHurt.uasset",
